@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Olá 👋 Eu sou o João Alberto</h1>
-<h3 align="center">Iniciante em programação, estudando Front / Back end</h3>
+<h3 align="center">Programador Front-end | Estudando Back-end</h3>
 
 - 🌱 Estou recentemente estudando: **React/ TypeScript**
 
