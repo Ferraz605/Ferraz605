@@ -19,27 +19,15 @@
 <h2>🚀 Evolução do Projeto</h2>
 
 <p>
-Atualmente, o Mão Data vai além de um glossário. O projeto está em constante desenvolvimento, com foco na construção e melhoria de uma plataforma digital acessível.
+Atualmente, o Mão Data vai além de um glossário. O projeto está em constante desenvolvimento.
 </p>
 
 <ul>
   <li>🌐 Desenvolvimento do site oficial</li>
   <li>📘 Produção de eBook e livro físico do glossário em Libras</li>
-  <li>🎬 Criação de um Videocast</li>
+  <li>🎬 Desenvolvendo um Videocast</li>
   <li>🎮 Planejamento de um jogo para memorização dos sinais</li>
 </ul>
-
-<br>
-
-<h2>♿ Acessibilidade</h2>
-
-<p>
-A acessibilidade é o pilar central do Mão Data. Todas as iniciativas do projeto são pensadas para garantir que a informação seja inclusiva, compreensível e acessível para todos, especialmente para a comunidade surda.
-</p>
-
-<p>
-Nosso objetivo é reduzir barreiras na comunicação técnica e promover a inclusão digital por meio da Libras.
-</p>
 
 <br>
 
