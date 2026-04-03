@@ -37,15 +37,6 @@ Atualmente, o Mão Data vai além de um glossário. O projeto está em constante
 Este repositório é dedicado ao desenvolvimento e aprimoramento do site oficial do Mão Data, com foco na expansão dos conteúdos, melhoria da experiência do usuário e fortalecimento da acessibilidade na plataforma.
 </p>
 
-<h2>📲 Contato</h2>
-
-<ul>
-  <li> Email: --</li>
-  <li> Instagram: https://www.instagram.com/maodatavideocast?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==</li>
-  <li> Tiktok: https://www.tiktok.com/@maodata.videocast?is_from_webapp=1&sender_device=pc</li>  
-  <li> Spotify: -- </li>
-</ul>
-
 <br>
 
 <p align="center">
