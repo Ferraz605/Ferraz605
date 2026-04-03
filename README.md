@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/MãoData.png" width="500">
+  <img src="./assets/MãoData.jpeg" width="500">
 </p>
 
 <p align="center">
