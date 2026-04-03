@@ -37,8 +37,6 @@ Atualmente, o Mão Data vai além de um glossário. O projeto está em constante
 Este repositório é dedicado ao desenvolvimento e aprimoramento do site oficial do Mão Data, com foco na expansão dos conteúdos, melhoria da experiência do usuário e fortalecimento da acessibilidade na plataforma.
 </p>
 
-<br>
-
 <h2>📲 Contato</h2>
 
 <ul>
