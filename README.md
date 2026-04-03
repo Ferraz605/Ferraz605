@@ -1,5 +1,5 @@
 <p align="center">
- <b>Mão Data</b><
+ <b>Mão Data</b>
 </p>
 
 <p align="center">
