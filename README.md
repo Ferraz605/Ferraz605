@@ -1,9 +1,9 @@
 <p align="center">
-  <b>Mão Data</b>
+ <h2><b>Mão Data</b></h2>
 </p>
 
 <p align="center">
-  <img src="./assets/MãoData.jpeg" width="500">
+  <img src="./assets/MãoData.jpeg" width="300">
 </p>
 
 <p align="center">
