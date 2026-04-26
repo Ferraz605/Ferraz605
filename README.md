@@ -1,44 +1,8 @@
-<p align="center">
- <b>Mão Data</b>
-</p>
+<h1 align="center">Olá, Bem Vindo!</h1> 
+- 📫 Mande um Email: joaoalberto14597@gmail.com
 
-<p align="center">
-  <img src="./assets/MãoData.jpeg" width="400">
-</p>
+<h4>Estudando Atualmente: </h4>
 
-<p align="center">
-  Projeto integrador do SENAC voltado à acessibilidade e à democratização do conhecimento em tecnologia por meio da Língua Brasileira de Sinais (Libras).
-</p>
+<img src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/C.png" width="100" height="100" alt="imagem">
 
-<p align="center">
-  O projeto surgiu inicialmente como um glossário técnico de hardware em Libras, com o objetivo de facilitar o entendimento de termos específicos da área para a comunidade surda. Com o tempo, evoluiu e expandiu seu conteúdo para redes e software, ampliando seu alcance e impacto.
-</p>
-
-<br>
-
-<h2>🚀 Evolução do Projeto</h2>
-
-<p>
-Atualmente, o Mão Data vai além de um glossário. O projeto está em constante desenvolvimento.
-</p>
-
-<ul>
-  <li>🌐 Desenvolvimento do site oficial</li>
-  <li>📘 Produção de eBook e livro físico do glossário em Libras</li>
-  <li>🎬 Desenvolvendo um Videocast</li>
-  <li>🎮 Planejamento de um jogo para memorização dos sinais</li>
-</ul>
-
-<br>
-
-<h2>🎯 Objetivo do Repositório</h2>
-
-<p>
-Este repositório é dedicado ao desenvolvimento e aprimoramento do site oficial do Mão Data, com foco na expansão dos conteúdos, melhoria da experiência do usuário e fortalecimento da acessibilidade na plataforma.
-</p>
-
-<br>
-
-<p align="center">
-  <b>Tecnologia • Inclusão • Acessibilidade</b>
-</p>
+![200w](https://github.com/user-attachments/assets/b92e6443-e065-44af-b2bf-abf23a3afe24)
