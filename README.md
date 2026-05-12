@@ -5,6 +5,8 @@
 
 <img src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/C.png" width="100" height="100" alt="imagem">
 
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<div aling="center">
+ <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+</div>
           
 ![200w](https://github.com/user-attachments/assets/b92e6443-e065-44af-b2bf-abf23a3afe24)
