@@ -3,7 +3,7 @@
 
 <h4>Estudando Atualmente: </h4>
 
-<img src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/C.png" width="100" height="100" alt="imagem">
+<img src="https://images.seeklogo.com/logo-png/26/1/php-logo-png_seeklogo-265704.png" width="100" height="100" alt="imagem">
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
